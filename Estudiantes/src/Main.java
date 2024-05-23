@@ -4,7 +4,7 @@ import java.util.InputMismatchException;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("CAMBIOS");
+        System.out.println("CAMBIOS 1.0");
         Scanner sc = new Scanner(System.in);
 
         Figuras_geometricas miFiguras = new Figuras_geometricas();
